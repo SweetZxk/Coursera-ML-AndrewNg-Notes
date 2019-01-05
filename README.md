@@ -26,15 +26,17 @@
 
 2018-3-26 夜
 
+微信公众号：机器学习初学者 ![gongzhong](/images/gongzhong.png)
+
 [我的知乎](https://www.zhihu.com/people/fengdu78/activities)
 
 参考：https://www.coursera.org/course/ml 机器学习公开课
 
-​           https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
+https://mooc.guokr.com/note/12/ [小小人_V](https://mooc.guokr.com/user/2133483357/) 的个人笔记
 
-​           《统计学习方法》李航
-
-​          《机器学习课》邹博
+《统计学习方法》李航
+    
+《机器学习课》邹博
 
 ## 备注：吴恩达老师的深度学习课（deepLearning.ai）的笔记地址：https://github.com/fengdu78/deeplearning_ai_books
 
@@ -60,9 +62,9 @@
 
 [笔记在线阅读](http://www.ai-start.com/ml2014)
 
-[笔记pdf版本下载](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes/blob/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E5%AE%8C%E6%95%B4%E7%89%88v5.1-A4%E6%89%93%E5%8D%B0%E7%89%88.pdf)
+笔记pdf版本下载 ：见**github**根目录。
 
-机器学习qq群：774999266
+机器学习qq群：554839127（我们有6个群，加过一个就不需要加了）
 
 -----------------------
 
@@ -80,7 +82,7 @@
 
 1.4 无监督学习 
 
-二、单变量线性回归**(Linear Regression with One Variable**) 
+二、单变量线性回归(**Linear Regression with One Variable**) 
 
 2.1 模型表示 
 
@@ -356,5 +358,5 @@
 
 
 
-**机器学习qq群：554839127**
+**机器学习爱好者qq群：554839127（我们有6个群，加过一个就不需要加了）** 
 
